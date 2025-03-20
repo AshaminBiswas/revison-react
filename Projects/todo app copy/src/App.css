@@ -1,0 +1,16 @@
+.name {
+  font-weight: 700;
+  font-size: 40px;
+  margin: 20px;
+}
+input {
+  width: 100%;
+}
+
+.rows {
+  margin-bottom: 10px;
+}
+
+.todo-button {
+  min-width: 80px;
+}
