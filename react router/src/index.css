@@ -1,4 +1,5 @@
 @import "tailwindcss";
-.red {
-  background-color: salmon;
+
+a.active hr {
+  display: block;
 }
